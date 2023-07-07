@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eddie-chat/static/css/main.d61e7f0b.css",
+    "main.js": "/eddie-chat/static/js/main.891b2718.js",
+    "index.html": "/eddie-chat/index.html",
+    "main.d61e7f0b.css.map": "/eddie-chat/static/css/main.d61e7f0b.css.map",
+    "main.891b2718.js.map": "/eddie-chat/static/js/main.891b2718.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d61e7f0b.css",
+    "static/js/main.891b2718.js"
+  ]
+}
